@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/deepch/vdk/format/mp4"
+	"github.com/joshjowen/vdk/format/mp4"
 	"github.com/gin-gonic/gin"
 	"github.com/sirupsen/logrus"
 	"os"

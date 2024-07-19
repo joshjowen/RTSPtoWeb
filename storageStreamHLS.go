@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/deepch/vdk/av"
+	"github.com/joshjowen/vdk/av"
 )
 
 // StreamHLSAdd add hls seq to buffer

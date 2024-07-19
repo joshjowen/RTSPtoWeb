@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/deepch/vdk/av"
+	"github.com/joshjowen/vdk/av"
 	"github.com/sirupsen/logrus"
 )
 
